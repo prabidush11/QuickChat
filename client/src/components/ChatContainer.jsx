@@ -146,7 +146,7 @@ const ChatContainer = () => {
                     </label>
                 </div>
                 {/* Send message button */}
-                <img onClick={handleSendMessage} src={assets.send_button} alt="Send" className='w-7 cursor-pointer' />
+                <img onClick={handleSendMessage} src={assets.send_button} alt="Send" className='w-9 cursor-pointer' />
             </div>
 
         </div>
